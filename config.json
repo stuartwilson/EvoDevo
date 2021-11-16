@@ -1,0 +1,8 @@
+{
+	"popSize" 		: 1000,
+	"numGens" 		: 1000,
+	"netSize"		: 7,
+	"maxLinksPerNode"	: 6,
+	"totalLinks" 		: 21,
+	"slowMeasurePeriod"	: 100000
+}
